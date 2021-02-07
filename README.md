@@ -2,8 +2,8 @@
 
 Some more models trainied using the Weight Lifting Exercises dataset provided at http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har
 
-All of these were trained using the R-kernel in Sagemaker. Models trained:
-Usinng the Caret Package - Random Forest & XGBoost
+All of these were trained using the R-kernel in Sagemaker. Models trained: 
+Using the Caret Package - Random Forest & XGBoost. 
 Using Sagemaker - XGBoost
 
 
